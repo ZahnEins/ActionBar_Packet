@@ -1,0 +1,5 @@
+name: StatusPlayer
+version: ${project.version}
+main: me.zahneins.main.StatusPlayer
+api-version: 1.16
+author: [ZahnEins]
