@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ActionBar_Packet:jar">
+    <output-path>$PROJECT_DIR$/../SeverTest For Plugin/spigot 1.16/plugins</output-path>
+    <root id="archive" name="ActionBar_Packet.jar">
+      <element id="module-output" name="ActionBar_Packet" />
+    </root>
+  </artifact>
+</component>
